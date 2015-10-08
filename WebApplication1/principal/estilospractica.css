@@ -1,0 +1,63 @@
+﻿body {
+    margin =0;
+}
+
+img {
+    width:320px;height:240px;
+}
+
+
+
+nav{
+    /*width:100px;*/
+    text-decoration-style:dashed;
+    background-color:red;
+    text-align:center ;
+    min-height:50px;
+    align-content: space-between;
+}
+
+#p1
+{
+    width:100px;
+    min-height:500px;
+    background-color:yellow;
+    float:left;
+     
+}
+
+
+section {
+  width:auto;
+    min-height: 500px;
+    background-color: white;
+    float: left;
+   text-align:center;
+}
+ 
+
+ #p2
+{
+    width:100px;
+    min-height:500px;
+    background-color:yellow;
+    float:right ;
+     
+}
+
+
+
+
+
+
+footer 
+
+{
+    width: 100%;
+    min-height: 80px;
+    background-color: green;
+    clear: both;
+    text-align :center
+}
+
+
